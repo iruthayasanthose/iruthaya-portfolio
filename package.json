@@ -1,0 +1,15 @@
+{
+  "name": "2iruthaya",
+  "version": "1.0.0",
+  "description": "Iruthaya Portfolio Website",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
